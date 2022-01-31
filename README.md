@@ -155,7 +155,6 @@ From the Next.JS docs:
 
 You have to send us three items:
 
-- A ZIP file containing all the code of the solution to this assignment.
 - A link to the git repo (make sure it's public).
 - A link to the deployment.
 
