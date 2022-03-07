@@ -153,7 +153,7 @@ From the Next.JS docs:
 
 ## I'm finished, what now?
 
-You have to send us three items:
+You have to send us two items:
 
 - A link to the git repo (make sure it's public).
 - A link to the deployment.
