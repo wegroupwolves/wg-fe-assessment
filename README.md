@@ -47,7 +47,7 @@ Again, we won't test you on knowledge of frameworks. Anything that makes the sol
 
 As mentioned before, you will be working with a public Pokémon API. You will create a small web application with some basic styling that fetches a list of Pokémons. From this list, you can select a Pokémon and view the Pokémon in detail. You can also mark a Pokémon as your favorite. This "marking action" will only happen locally, so there will be no API call to actually put this change into a database. As a final touch, think about some extra functionality you could add to this application, try to impress us!
 
-This assignment will give us insights in how well you can create a Front-End application for a Back-End. There are 7 important points where we will rate your code on:
+This assignment will give us insights in how well you can create a Front-End application for a Back-End. There are several important points where we will rate your code on:
 
 - Using best practices
 - Code structure
@@ -63,7 +63,7 @@ Here is how the app can look like once the assignment is finished. You don't hav
 
 ### Before starting
 
-- Fork this repository
+- Create a git repository for yourself and commit the starting code
 - Take a look around the project. If you haven't worked with Next.JS before, it might be useful to take a quick look at [the docs](https://nextjs.org/docs). Don't go too in depth though as you won't need any special functionalities it provides.
 - Check out the [Pokémon API](https://pokeapi.co/). You will be using this to fetch data.
 - Install dependencies by using `npm i` and start it with `npm run dev`.
@@ -138,7 +138,7 @@ Once the following requirements are satisfied, your assignment is finished:
 - Ability to mark a Pokémon as favorite and show this visually.
 - 1 extra functionality that you thought of.
 - Some basic styling.
-- Everything committed to the git repo.
+- Everything committed to a git repo.
 
 You are always free to make it look super fancy or add even more extra functionality, but this is not required.
 
