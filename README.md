@@ -63,7 +63,7 @@ Here is how the app can look like once the assignment is finished. You don't hav
 
 ### Before starting
 
-- Create a git repository for yourself and commit the starting code
+- Create a git repository for yourself and commit the starting code (Avoid forking it)
 - Take a look around the project. If you haven't worked with Next.JS before, it might be useful to take a quick look at [the docs](https://nextjs.org/docs). Don't go too in depth though as you won't need any special functionalities it provides.
 - Check out the [Pokémon API](https://pokeapi.co/). You will be using this to fetch data.
 - Install dependencies by using `npm i` and start it with `npm run dev`.
